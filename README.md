@@ -10,35 +10,28 @@
 **Adding Student**
 
 
-![image alt]()
+![image alt](https://github.com/murthyns18/Student-Management-System-Using-SpringBoot/blob/671d3efe2edd8aea4fd6aecb61719767d2a96f30/Add.png)
 
 
 **Fetching Student**
 
 
-![image alt]()
-
+![image alt](https://github.com/murthyns18/Student-Management-System-Using-SpringBoot/blob/671d3efe2edd8aea4fd6aecb61719767d2a96f30/Fetch.png)
 
 
 **Fetching All Students**
 
 
-
-![image alt]()
-
+![image alt](https://github.com/murthyns18/Student-Management-System-Using-SpringBoot/blob/671d3efe2edd8aea4fd6aecb61719767d2a96f30/FetchAll.png)
 
 
 **Updating Student**
 
 
-
-
-![image alt]()
-
+![image alt](https://github.com/murthyns18/Student-Management-System-Using-SpringBoot/blob/671d3efe2edd8aea4fd6aecb61719767d2a96f30/Update.png)
 
 
 **Deleting Student**
 
 
-
-![image alt]()
+![image alt](https://github.com/murthyns18/Student-Management-System-Using-SpringBoot/blob/671d3efe2edd8aea4fd6aecb61719767d2a96f30/Delete.png)
